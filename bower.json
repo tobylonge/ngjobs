@@ -1,0 +1,20 @@
+{
+  "name": "ngjobs",
+  "homepage": "https://github.com/tobylonge/ngjobs",
+  "authors": [
+    "Oluwatobi Alonge <tobylonge@gmail.com>"
+  ],
+  "description": "A design for a job site called ngjobs",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}

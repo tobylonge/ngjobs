@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="50px" viewBox="0 0 154 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-637.000000, -90.000000)">
+            <g id="logo" transform="translate(637.000000, 90.000000)">
+                <rect id="Rectangle-4" fill="#FA5486" x="0" y="0" width="68.3181818" height="50"></rect>
+                <text id="ng" font-family="Athelas-Bold, Athelas" font-size="40" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="12.3590909" y="35">ng</tspan>
+                </text>
+                <text id="Jobs" font-family="Athelas-Bold, Athelas" font-size="40" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="81.2122727" y="36.6666667">Jobs</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
